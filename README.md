@@ -39,4 +39,4 @@ while True:
     
     offset += len(tracks['items'])
 
-print(f"Liked all {liked_count} songs in the playlist!")```
+print(f"Liked all {liked_count} songs in the playlist!")
