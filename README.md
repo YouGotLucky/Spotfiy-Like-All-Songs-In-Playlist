@@ -1,2 +1,2 @@
-# Spotfiy-Like-All-Songs-In-Playlist
-Simple python script to like every song in a playlist, this will eventually become an open source spotify program.
+# Get ID and Token
+To get a ID and Token go to https://developers.spotify.com and make a new application make sure to make the redirect link to http://localhost:8888/callback
