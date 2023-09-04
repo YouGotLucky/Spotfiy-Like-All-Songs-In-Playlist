@@ -4,7 +4,8 @@ To get a ID and Token go to https://developers.spotify.com and make a new applic
 I originally made this because I made a new account and didn't want to like every song 1 at a time...
 
 # Code
-```import spotipy
+```
+import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
 CLIENT_ID = 'YOUR_CLIENT_ID'
